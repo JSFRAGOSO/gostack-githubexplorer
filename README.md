@@ -43,3 +43,7 @@ $ yarn install
 $ yarn start
 ```
 Abra [http://localhost:3000](http://localhost:3000) to visualizar a aplicação no browser.
+
+---
+
+Feito com 💜 by Jonas Fragoso :wave:
