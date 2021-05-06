@@ -35,10 +35,11 @@ A aplicação consiste em duas páginas, sendo a primeira de apresentação e a 
 
 ### Pré-requisitos:
 - Para executar o projeto, é necessário possuir o Node instalado no computador, caso você não tenha você pode baixá-lo em [Nodejs](https://nodejs.org/en/download/) 
+- Para clonar o projeto, é necessário possuir o Git, disponível em [Git](https://git-scm.com/downloads) 
 
 ### Abra o terminal em seu computador e clone o projeto com:
 ```bash
-https://github.com/JSFRAGOSO/huia-maxdoctor.git
+$ git clone https://github.com/JSFRAGOSO/huia-maxdoctor.git
 ```
 ### Acesse a pasta do projeto com:
 ```
